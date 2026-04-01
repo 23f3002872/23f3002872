@@ -1,8 +1,6 @@
-
-
 <div align="center">
 
-<a href="https://github.com/Khushi-Choudhary11">
+<a href="https://github.com/23f3002872">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=900&color=F7A6FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Khushi+Choudhary+%F0%9F%91%8B;Data+Scientist+%26+ML+Engineer;IIT+Madras+%C2%B7+B.S.+Data+Science;Building+data-driven+solutions;" alt="Typing SVG" />
 </a>
 
@@ -11,9 +9,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-choudhary-1b52462a7/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/chkhushi123)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:khushich9085@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Khushi-Choudhary11)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/23f3002872)
 
-<img src="https://komarev.com/ghpvc/?username=Khushi-Choudhary11&style=flat-square&color=58a6ff&label=profile+views" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=23f3002872&style=flat-square&color=58a6ff&label=profile+views" alt="profile views" />
 
 </div>
 
@@ -86,14 +84,14 @@ class Khushi:
 
 <div align="center">
 
-<a href="https://github.com/Khushi-Choudhary11">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Khushi-Choudhary11&show_icons=true&theme=github_dark&hide_border=true&title_color=c9d1d9&icon_color=6e7681&text_color=8b949e&bg_color=0d1117&rank_icon=percentile&card_width=420&border_radius=6" height="155"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Khushi-Choudhary11&layout=compact&theme=github_dark&hide_border=true&title_color=c9d1d9&text_color=8b949e&bg_color=0d1117&langs_count=8&card_width=280&border_radius=6" height="155"/>
+<a href="https://github.com/23f3002872">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=23f3002872&show_icons=true&theme=github_dark&hide_border=true&title_color=c9d1d9&icon_color=6e7681&text_color=8b949e&bg_color=0d1117&rank_icon=percentile&card_width=420&border_radius=6" height="155"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=23f3002872&layout=compact&theme=github_dark&hide_border=true&title_color=c9d1d9&text_color=8b949e&bg_color=0d1117&langs_count=8&card_width=280&border_radius=6" height="155"/>
 </a>
 
 <br/>
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Khushi-Choudhary11&theme=github-dark-blue&hide_border=true&ring=8b949e&fire=e3b341&currStreakLabel=c9d1d9&sideLabels=6e7681&dates=6e7681&background=0d1117&border_radius=6" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=23f3002872&theme=github-dark-blue&hide_border=true&ring=8b949e&fire=e3b341&currStreakLabel=c9d1d9&sideLabels=6e7681&dates=6e7681&background=0d1117&border_radius=6" />
 
 </div>
 
@@ -105,8 +103,8 @@ class Khushi:
 
 <div align="center">
 
-<a href="https://github.com/Khushi-Choudhary11">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khushi-Choudhary11&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&radius=6&custom_title=Contribution+Activity" width="100%" />
+<a href="https://github.com/23f3002872">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=23f3002872&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&radius=6&custom_title=Contribution+Activity" width="100%" />
 </a>
 
 <br/>
